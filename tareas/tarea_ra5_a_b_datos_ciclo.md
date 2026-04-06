@@ -19,18 +19,18 @@
 
 ## 5) Ciclo del dato
 - Captura: Registro diario de asistencia mediante lector de tarjetas o app.
-- Almacenamiento: 
-- Procesamiento:
-- Análisis:
-- Uso:
-- Eliminación:
+- Almacenamiento: Base de datos de la escuela.
+- Procesamiento: Cálculo de asistencia porcentual y generación de alertas.
+- Análisis: Identificación de alumnos con ausencias frecuentes o patrones de inasistencia.
+- Uso: Comunicación con padres, seguimiento académico, planificación de tutorías.
+- Eliminación: Depuración de registros de asistencia después de 5 años según la normativa educativa.
 
 ## 6) Aplicación
-- Decisiones:
-- Valor:
+- Decisiones: Contactar padres de alumnos con faltas frecuentes; organizar tutorías; ajustar planes de estudio.
+- Valor: Mejora del rendimiento académico y reducción de ausencias injustificadas.
 
 ## 7) Tabla
-| Dato | Información |
+| Pablo ruiz, 06/04/2026, presente, Shawn frost, 05/04/2026, ausente| Pablo tiene asistencia del 80% este mes, Shawn tiene ausencias frecuentes; seguimiento necesario  |
 
 ## 8) Diagrama
 
