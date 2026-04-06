@@ -33,9 +33,9 @@
 | Dato | Información |
 |------|-------------|
 | Pablo ruiz, 06/04/2026, presente | Juan tiene asistencia del 80% este mes |
-| Shawn frost, 05/04/2026, ausente | Ana tiene ausencias frecuentes; seguimiento necesario |
-| Xavier foster, 06/04/2026, presente | Carlos tiene asistencia del 95% este mes |
-| Paolo bianchi, 04/04/2026, ausente | María tiene ausencias recurrentes; seguimiento requerido |
+| Shawn frost, 05/04/2026, ausente | Shawn tiene ausencias frecuentes; seguimiento necesario |
+| Xavier foster, 06/04/2026, presente | Xavier tiene asistencia del 95% este mes |
+| Paolo bianchi, 04/04/2026, ausente | Paolo tiene ausencias recurrentes; seguimiento requerido |
 
 ## 8) Diagrama
 
