@@ -38,18 +38,16 @@
 | María Ruiz, 04/04/2026, ausente | María tiene ausencias recurrentes; seguimiento requerido |
 
 ## 8) Diagrama
-## 8) Diagrama
 
-```mermaid
-
+```
     Captura --> Almacenamiento --> Procesamiento --> Análisis --> Uso --> Eliminación
 ```
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: Datos de asistencia manuales causan errores.
+- Solución 1: Implementar sistema digital con lectura automática.
+- Problema 2: Dificultad para identificar alumnos con patrones de inasistencia.
+- Solución 2: Generar reportes automáticos de asistencia mensual.
 
 ## 10) Fuente
-- Enlace:
+- Enlace: https://www.example.com/sistema-asistencia-escolar
