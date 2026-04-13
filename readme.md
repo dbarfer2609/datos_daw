@@ -38,13 +38,13 @@ Datos masivos → Procesamiento → Análisis → Modelo ML/DL → IA → Decisi
 - Modelo: Algoritmo de Machine Learning (detección de anomalías) y redes neuronales
 - Decisión: Bloquear la transacción o solicitar verificación al cliente
 
-7) Tabla
-| Concepto | Función |
-|----------|--------|
-| Big Data | Gestionar grandes volúmenes de datos masivos |
-| Análisis de datos | Extraer información útil y patrones |
-| ML/DL | Aprender de los datos y hacer predicciones |
-| IA | Tomar decisiones inteligentes automáticamente |
+| Concepto        | Función                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| Big Data       | Gestionar grandes volúmenes de datos masivos                            |
+| Análisis       | Extraer información útil y detectar patrones                            |
+| ML/DL          | Aprender de los datos y hacer predicciones automáticas                 |
+| IA             | Tomar decisiones inteligentes basadas en los modelos                   |
+
 8) Diagrama
 ```
 Usuario
