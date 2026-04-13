@@ -63,4 +63,11 @@ IA
    ↓
 Decisión
 ```
+9) Problemas
+Problema 1: Falsos positivos (bloquear compras legítimas)
+Solución 1: Mejorar modelos con más datos y ajustar umbrales
+Problema 2: Sesgo en los datos (clientes mal clasificados)
+Solución 2: Uso de datos diversos y auditorías de los modelos
 
+10) Fuente
+Enlace: https://www.bbva.com/es/innovacion/que-es-big-data/.
